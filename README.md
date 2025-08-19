@@ -7,8 +7,6 @@ Studying a Bachelor's Degree in Computer Science (2th/8th semester) Currently pu
     <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,git,py" />
   </a>
 </p>
-# <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/65693844-01f1-424c-b7c1-7e901bdf3c91" />
-
 <!--
 **charlesisaque/charlesisaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
