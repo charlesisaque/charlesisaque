@@ -1,5 +1,12 @@
-## Hi there 👋
+## 👨🏻‍💻 Isaque Charles Souza Sodré
+Studying a Bachelor's Degree in Computer Science (2th/8th semester) Currently pursuing a Bachelor's degree in Computer Science (2nd/8th semester) at Jorge Amado University Center, passionate about programming and learning new technologies. Intensified studies in: Front-End with Alura and Back-End Development Training with Python by IFBA.
 
+# Stacks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,abgular,node.js,git,py" />
+  </a>
+</p>
 <!--
 **charlesisaque/charlesisaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
