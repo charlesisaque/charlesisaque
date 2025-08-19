@@ -4,7 +4,7 @@ Studying a Bachelor's Degree in Computer Science (2th/8th semester) Currently pu
 # Stacks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,node.js,git,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,git,py" />
   </a>
 </p>
 <!--
