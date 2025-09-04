@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Isaque Charles Souza Sodré
-Studying a Bachelor's Degree in Computer Science (2th/8th semester) at Jorge Amado University Center, passionate about programming and learning new technologies. Intensified studies in: Front-End with Alura and Back-End Development Training with Python by IFBA.
+Studying a Bachelor's Degree in Computer Science (2th/8th semester) at Jorge Amado University Center, passionate about programming and learning new technologies. Intensified studies in: Front-End with Alura.
 
 # Stacks
 <p align="center">
