@@ -4,7 +4,7 @@ Studying a Bachelor's Degree in Computer Science (2th/8th semester) at Jorge Ama
 # Stacks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,py,git,nodejs,gemini" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,py,git,nodejs,google" />
   </a>
 </p>
 <!--
