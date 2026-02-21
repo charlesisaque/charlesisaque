@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Isaque Charles Souza Sodré
-Studying a Bachelor's Degree in Computer Science (2th/8th semester) at Jorge Amado University Center, passionate about programming and learning new technologies. Intensified studies in: Front-End with Alura.
+Studying a Bachelor's Degree in Computer Science (3th/8th semester) at Jorge Amado University Center, passionate about programming and learning new technologies. Intensified studies in: Front-End with Alura.
 Hard Skills – Front-End & Development 
 Languages: HTML, CSS, JavaScript, TypeScript, Python
 Frameworks & Libraries: React, React Native, Next.js, Tailwind CSS
