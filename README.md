@@ -8,7 +8,7 @@ Tool
 # Stacks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,py,nodejs,git,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,py,nodejs,c,git,docker,postgres,mongodb" />
   </a>
 </p>
 <!--
