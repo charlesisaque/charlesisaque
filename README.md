@@ -1,53 +1,78 @@
-## 👨🏻‍💻 Isaque Charles Souza Sodré
-Studying a Bachelor's Degree in Computer Science (3rd/8th semester) at Jorge Amado University Center, passionate about programming and learning new technologies. Intensified studies in Full Stack and Software Development.
+# 👨🏻‍💻 Isaque Charles Souza Sodré
 
-**Hard Skills – Software Development**
+🎓 Computer Science Student (3rd/8th semester) – Jorge Amado University Center  
+💻 Passionate about **Software Engineering, Full Stack Development and Backend Systems**  
+🚀 Always learning new technologies and building projects to improve my skills.
 
-**Languages:**
-Java, Python, JavaScript, TypeScript, C, HTML, CSS, SCSS
+---
 
-**Front-End:**
-React, Tailwind CSS
+## 🧠 Tech Stack
 
-**Back-End:**
-Spring Boot, Django, FastAPI, Flask, Django REST Framework, JavaFX
-JPA / Hibernate, JDBC, Spring Data JPA, Spring Data MongoDB
-Lambda Expressions, Stream API, Maven
+### 💻 Languages
+Java • Python • JavaScript • TypeScript • C • HTML • CSS • SCSS
 
-**APIs:**
-RESTful APIs, GraphQL, Swagger / OpenAPI
+### 🎨 Frontend
+React • Tailwind CSS
 
-**Databases:**
-MySQL, PostgreSQL, MongoDB, Oracle
+### ⚙️ Backend
+Spring Boot • Django • FastAPI • Flask • Django REST Framework  
+JPA / Hibernate • JDBC • Spring Data JPA • Spring Data MongoDB  
+Java Streams • Lambda Expressions • Maven
 
-**Cloud & DevOps:**
-AWS (EC2, Amazon ECS), Docker, CI/CD
+### 🔗 APIs
+RESTful APIs • GraphQL • Swagger / OpenAPI
 
-**Messaging:**
-RabbitMQ, Kafka
+### 🗄️ Databases
+MySQL • PostgreSQL • MongoDB • Oracle
 
-**AI & Data:**
-LangChain, AI Agents, LLMs (Gemini), Data analysis with Pandas
+### ☁️ Cloud & DevOps
+AWS (EC2, ECS) • Docker • CI/CD
 
-**Testing:**
-Pytest, Unittest
+### 📨 Messaging
+RabbitMQ • Kafka
 
-**Tools:**
-Git, Git Flow, Node.js (NPM), Figma, WordPress
+### 🤖 AI & Data
+LangChain • AI Agents • LLMs (Gemini) • Pandas
 
-**Security:**
-OWASP Top 10, rollback strategies
+### 🧪 Testing
+Pytest • Unittest
 
-**Data Analytics & BI:**
+### 🛠️ Tools
+Git • Git Flow • Node.js (NPM) • Figma • WordPress
+
+### 🔐 Security
+OWASP Top 10 • Rollback strategies
+
+### 📊 Data Analytics
 Power BI
 
-# Stacks
+---
+
+# 🚀 Technologies
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,typescript,react,tailwind,py,nodejs,c,git,npm,docker,postgres,mongodb&perline=5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,tailwind,html,css,nodejs,django,flask,docker,aws,git,postgres,mongodb&perline=8"/>
 </p>
-<!--
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=charlesisaque&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesisaque&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Contact
+
+📧 Email: your-email-here  
+💼 LinkedIn: your-linkedin-here
+
+---
+
+⭐ From [charlesisaque](https://github.com/charlesisaque)
 **charlesisaque/charlesisaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
