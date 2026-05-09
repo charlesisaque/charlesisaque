@@ -61,7 +61,4 @@ Power BI
 Email: charlesisaque0@gmail.com  
 LinkedIn: https://www.linkedin.com/in/charlesisaque/
 
----
 
-⭐ From [charlesisaque](https://github.com/charlesisaque)
-**charlesisaque/charlesisaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
