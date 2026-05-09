@@ -59,7 +59,7 @@ Power BI
 # Contact
 
 Email: charlesisaque0@gmail.com  
-LinkedIn: your-linkedin-here
+LinkedIn: https://www.linkedin.com/in/charlesisaque/
 
 ---
 
