@@ -56,15 +56,6 @@ Power BI
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=charlesisaque&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesisaque&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # Contact
 
 Email: charlesisaque0@gmail.com  
